@@ -1,6 +1,8 @@
-#include <stdio.h>
+#include "learn_c/chap01/list0101.h"
+#include "learn_c/chap01/list0102.c"
 
 int main() {
-    printf("Hello, World!\n");
+    hello_world();
+    hello_world_0102();
     return 0;
 }
