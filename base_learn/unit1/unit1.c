@@ -12,13 +12,21 @@ void printf_test1();
 int main(void)
 {
     printf_test();
+    printf_test1();
     return 0;
 }
 
 void printf_test()
 {
     printf("15与37的和是%d \n",15+37);
-    printf("end");
+    printf("end \n");
 }
 
-void
+void printf_test1() {
+    int vx,vy;
+    vx = 57;
+    vy = vx + 10;
+
+    printf("vx的值是%d \n",vx);
+    printf("vy的值是%d \n",vy);
+}
