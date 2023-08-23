@@ -1,8 +1,11 @@
-#include "learn_c/chap01/list0101.h"
-#include "learn_c/chap01/list0102.c"
+#include "learn1/learn1.h"
+#include "learn2/learn2.h"
+#include <stdio.h>
 
-int main() {
-    hello_world();
-    hello_world_0102();
-    return 0;
+int main()
+{
+//    return test1();
+//    return test2();
+    struct Student *pHead = Create();
+    Print(pHead);
 }
