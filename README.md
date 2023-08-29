@@ -1,2 +1,7 @@
-# demo_c_codes
-learn c demo
+>C语言学习笔记
+
+# 1 初识C语言
+`/base_learn/unit1`
+
+# 2 运算和数据类型
+`/base_learn/unit2`

@@ -11,17 +11,19 @@ void printf_test1();
 
 int main(void)
 {
-    printf_test();
+//    printf_test();
     printf_test1();
     return 0;
 }
 
+// 最简单的C程序
 void printf_test()
 {
     printf("15与37的和是%d \n",15+37);
     printf("end \n");
 }
 
+// 新增int变量
 void printf_test1() {
     int vx,vy;
     vx = 57;
