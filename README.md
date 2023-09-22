@@ -44,3 +44,6 @@ while(B){
 ```c
 for (i=1;i<n;i++);
 ```
+
+# 5 数组
+`/base_learn/unit5`
