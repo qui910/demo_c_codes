@@ -10,4 +10,5 @@ void array_init();
 void array_copy();
 void array_scan();
 void array_sort();
+void array_multi();
 #endif //DEMO_C_CODES_UNIT5_H
