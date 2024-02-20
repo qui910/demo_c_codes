@@ -13,7 +13,7 @@ set(SOURCES
         # base_learn/unit4/unit4.h
         # base_learn/unit4/unit4.c
         base_learn/unit5/unit5.c
-        base_learn/unit5/unit5.h)
+        base_learn/unit5/unit5.h base_learn/unit6/unit6.h base_learn/unit6/unit6.c)
 
 add_executable(demo_c_codes ${SOURCES})
 target_include_directories(demo_c_codes
